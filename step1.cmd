@@ -1,3 +1,3 @@
 rem Check ARM Step 1
-rem test test
+rem git push -u armcheck master
 @echo off
