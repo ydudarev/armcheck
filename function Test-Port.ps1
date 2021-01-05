@@ -20,6 +20,5 @@ function Test-Port
         $tcpClient.Dispose()
     }
 }
-
-    Test-Port -Address localhost -Port 80
-    Test-Port -Address localhost -Port 81
+    Test-Port -Address 8.8.8.8 -Port 80
+    Test-Port -Address 8.8.8.8 -Port 443
