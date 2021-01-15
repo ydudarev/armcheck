@@ -1,6 +1,7 @@
 # armcheck
 Script for check ARM requirement"s
 Подготовка к запуску :
+
 cоздать дирректорию C:\tmp\
 скопировать https://github.com/ydudarev/armcheck/blob/master/tcping.exe  в эту папку C:\tmp\
 
