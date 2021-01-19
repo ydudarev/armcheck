@@ -2,10 +2,10 @@
 Script for check ARM requirement"s
 Подготовка к запуску :
 
-cоздать дирректорию C:\tmp\
-скопировать https://github.com/ydudarev/armcheck/blob/master/tcping.exe  в эту папку C:\tmp\
-Скачать АРМ по ссылке http://10.77.5.10/install/OprWS-vpn.application
-Запустить АРМ
+1. Cоздать дирректорию C:\tmp\
+2. Cкопировать https://github.com/ydudarev/armcheck/blob/master/tcping.exe  в эту папку C:\tmp\
+3. Скачать АРМ по ссылке http://10.77.5.10/install/OprWS-vpn.application в случае, если АРМ не установлен
+4. Запустить АРМ
 
 Проверки и иcправления собрал в 2 скрипта :
 https://github.com/ydudarev/armcheck/blob/master/step0.bat
