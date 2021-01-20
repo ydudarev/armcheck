@@ -1,5 +1,5 @@
 @echo off
-    chcp 1251
+    chcp 866
     for /f "tokens=2 delims=:" %%a in ('powershell -Command Get-Host ^| findstr /c:Version') do (echo pshell Version %%a)
     if exist "C:\Windows\Microsoft.NET\Framework\v4*" echo Framework_V4_32_exist
     netsh http add urlacl url=http://+:9000/ user=Everyone
